@@ -1,0 +1,12 @@
+[package]
+name = "broot-search"
+version = "0.1.0"
+authors = ["Federico Stra <stra.federico@gmail.com>"]
+description = "Prototype implementation to parse search string for `broot`."
+license = "MIT"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nom = "7.1.1"
